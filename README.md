@@ -1,3 +1,3 @@
 #DEBUG LIST:
 
--fix music in APOCALYPSE
+-fix music in "Apocalypse"
