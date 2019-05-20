@@ -1,3 +1,3 @@
 #DEBUG LIST:
 
--fix music in "Apocalypse"
+-add improved animation(s) in "Graphing Calculator"
